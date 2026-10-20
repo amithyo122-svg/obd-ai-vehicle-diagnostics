@@ -1,0 +1,17 @@
+crewai
+crewai-tools
+ollama
+obd
+chromadb
+sentence-transformers
+pypdf
+ddgs
+requests
+python-dotenv
+streamlit
+fastapi
+uvicorn
+litellm
+plotly
+pandas
+numpy

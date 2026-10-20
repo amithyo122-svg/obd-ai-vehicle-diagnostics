@@ -1,0 +1,1 @@
+These are the screenshots taken  while diagnosing my own car
